@@ -7,4 +7,4 @@
 # 추가적으로 Supply Chain을 이용해 Customer, Competitor, Supplier, 동일 업종의 데이터 이용
 # 해당 변수를 각 칼럼으로 추가함
 # Catboost를 이용해 모델 생성
-# Optuna를 사용해 Fine Tuning 진행
+ Optuna를 사용해 Fine Tuning 진행
